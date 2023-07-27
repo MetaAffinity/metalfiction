@@ -9,6 +9,8 @@ Customize Sections: The project contains multiple sections with the ID "#page". 
     
 Video to Canvas Animation: If you have a video you'd like to incorporate into your web page, consider converting it into sequenced image frames. This can be done by extracting individual frames from the video and saving them as images. Once you have the image frames, you can use HTML5 Canvas and GSAP to create captivating animations with them. This technique allows for smoother and more dynamic playback of the video content on your web page.
 
-By combining your creativity with HTML, CSS, JS, and GSAP, you can achieve impressive results and bring your web page to life with engaging animations and personalized designs. Happy coding!
+By combining your creativity with **HTML, CSS, JS, and GSAP**, you can achieve impressive results and bring your web page to life with engaging animations and personalized designs. Happy coding!
+
+### Preview : [Check online demo](https://metaaffinity.net/projects/htmlcssjs/metalfiction/).
 
 ## MetaAffinity.Net
